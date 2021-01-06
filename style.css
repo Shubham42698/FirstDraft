@@ -1,0 +1,19 @@
+body{
+    background: #EAE9E5;
+}
+.login_form{
+    margin-top: 25%;
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0px 1px 36px 5px rgba(0,0,0,0.28);
+    border-radius: 5px;
+}
+.errmsg{
+    margin: 2pz auto;
+    border-radius: 5px;
+    border: 1px solid red;
+    background: pink;
+    text-align: left;
+    color: brown;
+    padding: 1px;
+}
